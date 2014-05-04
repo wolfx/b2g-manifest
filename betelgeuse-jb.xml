@@ -17,5 +17,7 @@
   <project name="platform/frameworks/rs" path="frameworks/rs"/> 
   <project name="platform/external/llvm" path="external/llvm"/>
   <project name="platform/external/compiler-rt" path="external/compiler-rt"/>
+  <project name="platform/frameworks/compile/libbcc" path="frameworks/compile/libbcc"/>
+
 
 </manifest>
