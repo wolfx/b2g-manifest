@@ -14,5 +14,6 @@
   <project path="kernel/toshiba/betelgeuse" name="android_kernel_toshiba_betelgeuse" remote="wolfx" revision="rel-15r7" />
   <project name="platform/external/wpa_supplicant_8" path="external/wpa_supplicant_8"/>
   <project name="platform/hardware/ril" path="hardware/ril"/>
+  <project name="platform/frameworks/rs" path="frameworks/rs"/>  
 
 </manifest>
