@@ -105,7 +105,7 @@
 
   <!-- Betelgeuse specific things -->
   <project path="device/toshiba/betelgeuse" name="android_device_toshiba_betelgeuse" remote="wolfx" revision="b2g-ics" />
-  <project path="vendor/toshiba/betelgeuse" name="android_vendor_toshiba_betelgeuse" remote="wolfx" revision="cm-10.1" />
-  <project path="kernel/betelgeuse" name="android_kernel_toshiba_betelgeuse" remote="wolfx" revision="rel-15r7" />
+  <project path="vendor/toshiba/betelgeuse" name="android_vendor_toshiba_betelgeuse" remote="wolfx" revision="ics" />
+  <project path="kernel/betelgeuse" name="android_kernel_toshiba_betelgeuse" remote="wolfx" revision="ics-r14" />
   <project path="hardware/AR6kSDK.3.1" name="AR6kSDK.3.1" remote="wolfx" revision="b2g" />
 </manifest>
