@@ -124,4 +124,5 @@
   <project path="vendor/toshiba/betelgeuse" name="android_vendor_toshiba_betelgeuse" remote="wolfx" revision="cm-10.1" />
   <project path="kernel/toshiba/betelgeuse" name="android_kernel_toshiba_betelgeuse" remote="wolfx" revision="rel-15r7" />
   <project path="external/wpa_supplicant_8" name="platform/external/wpa_supplicant_8"/>
+  <project path="frameworks/native" name="platform/frameworks/native"/>
 </manifest>
